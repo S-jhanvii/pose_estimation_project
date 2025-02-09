@@ -1,6 +1,8 @@
+
 Overview
 
 This project implements real-time human pose estimation using MediaPipe Pose and OpenCV. It captures webcam input, processes frames, and overlays detected key points for applications like fitness tracking and motion analysis.
+
 
 Installation
 
